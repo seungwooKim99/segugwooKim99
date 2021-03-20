@@ -4,7 +4,7 @@
 <h2 align='center'>💻 Tech Stack 💻 </h2>
 
 <p align='center'>
-  ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   ![Jupyter](https://img.shields.io/badge/Jupyter-f37626?style=for-the-badge&logo=Jupyter&logoColor=white)
   ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
   ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=white)
