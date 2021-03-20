@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Seungwoo%20Kim&fontSize=90)
 
+<p align='center'>
+  Sogang Univ. computer science and engineering student. Studying machine learning, deep learning, front end and back end.  
+</p>
+<br />
 
 <h2 align='center'>💻 Tech Stack 💻 </h2>
 
@@ -20,9 +24,11 @@
   <img src="https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
   <img src="https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=C&logoColor=white" />
 </p>
-
-[![Seungwoo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungwooKim99)](https://github.com/anuraghazra/github-readme-stats)
-
+<br />
+<p aling='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=seungwooKim99)](https://github.com/anuraghazra/github-readme-stats" />
+</p>
+<br />
 <p align='center'>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FseungwooKim99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false" />
 </p>
