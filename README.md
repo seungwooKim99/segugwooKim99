@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Seungwoo%20Kim&fontSize=90)
 
+<h2 align='center'>👋 Hello World!</h2> <br />
 <p align='center'>
-  <h2>👋 Hello World!</h2> <br />
   I'm Seungwoo Kim, studying Machine Learning, Deep Learning, Front-end and Back-end.<br/>
   I want to be a person who solves the world's crucial problems through AI tech.<br /> 
 </p>
@@ -27,13 +27,8 @@
   <img src="https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=C&logoColor=white" />
 </p>
 <hr />
-<p aling='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seungwooKim99&repo=github-readme-stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seungwooKim99&repo=convoychat" />
-  </a>
+<p align='center'>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <hr />
 <p align='center'>
