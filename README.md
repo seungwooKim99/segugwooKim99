@@ -1,15 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Seungwoo%20Kim&fontSize=90)
 
 <p align='center'>
+  Hello World! <br />
   Sogang Univ. computer science and engineering student. Studying machine learning, deep learning, front end and back end.  
 </p>
-<br />
+<hr />
 
 <h2 align='center'>💻 Tech Stack 💻 </h2>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-f37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-f37626?style=for-the-badge&logo=Jupyter&logoColor=white" /><br />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white" />
@@ -24,11 +25,11 @@
   <img src="https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
   <img src="https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=C&logoColor=white" />
 </p>
-<br />
+<hr />
 <p aling='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=seungwooKim99)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
-<br />
+<hr />
 <p align='center'>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FseungwooKim99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false" />
 </p>
