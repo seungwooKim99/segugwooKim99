@@ -28,11 +28,20 @@
 </p>
 <hr />
 <p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=seungwooKim99" />
-  </a>
 </p>
 <hr />
+
+<h2 align='center'>📞 Contact Me 📞</h2>
+<p align='center'>
+  <a href='https://www.instagram.com/keemsw__/'>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/keemsw__/"/>
+  </a>
+  <a href='mailto:sonicdx886@gmail.com'>
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sonic886@gmail.com"/>
+  </a>
+</p>
+<br/>
 <p align='center'>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FseungwooKim99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false" />
 </p>
