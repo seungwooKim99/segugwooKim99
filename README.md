@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Seungwoo%20Kim&fontSize=90)
 
 <p align='center'>
-  Hello World! <br />
-  Sogang Univ. computer science and engineering student. Studying machine learning, deep learning, front end and back end.  
+  <h2>👋 Hello World!</h2> <br />
+  I'm Seungwoo Kim, studying Machine Learning, Deep Learning, Front-end and Back-end.<br/>
+  I want to be a person who solves the world's crucial problems through AI tech.<br /> 
 </p>
 <hr />
 
@@ -14,7 +15,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white" />
-  <img src="(https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" /><br />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" /> <br />
   <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
@@ -27,7 +28,12 @@
 </p>
 <hr />
 <p aling='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=seungwooKim99)](https://github.com/anuraghazra/github-readme-stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seungwooKim99&repo=github-readme-stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seungwooKim99&repo=convoychat" />
+  </a>
 </p>
 <hr />
 <p align='center'>
