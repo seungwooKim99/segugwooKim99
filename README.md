@@ -2,8 +2,7 @@
 
 <h2 align='center'>👋 Hello World!</h2> <br />
 <p align='center'>
-  I'm Seungwoo Kim, studying Machine Learning, Deep Learning, Front-end and Back-end.<br/>
-  I want to be a person who solves the world's crucial problems through AI tech.<br /> 
+  I'm Seungwoo Kim, studying Machine Learning, Deep Learning, Cloud Tech, Front-end and Back-end.<br/>
 </p>
 <hr />
 
